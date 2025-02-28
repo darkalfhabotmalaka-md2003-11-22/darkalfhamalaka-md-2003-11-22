@@ -1,6 +1,6 @@
 {
-"footer": "*● Fᴏʟʟᴏᴡᴇ Uꜱ 🔥*\n*REPO 🎲*\nhttps://github.com/MALAKA-28/MALAKA-MD-V1\n\n> *㋛ 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙼𝙰𝙻𝙰𝙺𝙰-𝙼𝙳 〽️M*",
-"mainimg": "https://i.ibb.co/sdcDXxXn/6073.jpg",
+"footer": "*● Fᴏʟʟᴏᴡᴇ Uꜱ 🔥*\n*REPO 🎲*\nhttps://github.com/MALAKA-28/MALAKA-MD\n\n> *㋛ 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙼𝙰𝙻𝙰𝙺𝙰-𝙼𝙳 〽️M*",
+"mainimg": "https://i.ibb.co/yBYYzRkR/4279.jpg",
 "replyMsg": {
   "givetext": "*Please give me text..!✏️*",
   "giveurl": "*Please give me Url..!🖇️*",
